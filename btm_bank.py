@@ -1,3 +1,5 @@
+#Hi Natalie :)
+
 import functionalities as func
 
 options = ["Say hi","Add client","Add transaction","Look at money"]
